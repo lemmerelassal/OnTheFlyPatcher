@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/FPGA/OnTheFlyPatcher/tb_main_isim_beh.exe" -prj "D:/FPGA/OnTheFlyPatcher/tb_main_beh.prj" "work.tb_main" 

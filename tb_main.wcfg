@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/FPGA/OnTheFlyPatcher/tb_main_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="tb_main" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/tb_main/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/oe" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">oe</obj_property>
+      <obj_property name="ObjectShortName">oe</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/dq" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dq[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dq[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/uut/output_dq" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">output_dq</obj_property>
+      <obj_property name="ObjectShortName">output_dq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/uut/n_state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">n_state</obj_property>
+      <obj_property name="ObjectShortName">n_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main/uut/oe_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">oe_reg[2:0]</obj_property>
+      <obj_property name="ObjectShortName">oe_reg[2:0]</obj_property>
+   </wvobject>
+</wave_config>
